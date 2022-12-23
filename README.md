@@ -1,10 +1,10 @@
-  ### `saika` : Hexdump in rust.
+### `saika` : Hexdump in rust for no purpose.
+
 <br>
 <div align="center">
-  <img src="https://github.com/pwnwriter/files/raw/main/saika/saika.gif" alt=" hexdump in rust" width="220" height="100">  
+  <img src="https://github.com/pwnwriter/files/raw/main/saika/saika.gif" alt=" hexdump in rust" width="700" height="300">  
 </div>
 <br>
-
 
 #### Install
 ```sh
