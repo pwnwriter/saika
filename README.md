@@ -8,9 +8,7 @@
 
 #### Install
 ```sh
-$ git clone https://github.com/pwnwriter/saika.git saika
-$ cd saika
-$ sudo/doas make install
+$ cargo install --git https://github.com/pwnwriter/saika
 ```
 
 #### Uses
