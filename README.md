@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-  <img src="https://github.com/pwnwriter/files/raw/main/saika/saika.gif" alt=" hexdump in rust" width="700" height="300">  
+  <img src="https://github.com/pwnwriter/files/raw/main/saika/saika.gif" alt=" hexdump in rust" width="800" height="400">  
 </div>
 <br>
 
