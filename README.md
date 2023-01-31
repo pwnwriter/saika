@@ -10,6 +10,10 @@
 ```sh
 $ cargo install --git https://github.com/pwnwriter/saika
 ```
+or 
+```bash
+$ cargo install saika
+```
 
 #### Uses
 ```sh
