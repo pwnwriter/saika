@@ -2,7 +2,20 @@
 name = "saika"
 version = "0.1.0"
 edition = "2021"
+authors = ["PwnWriter < hey@pwnwriter.xyz >"]
+description = "A hexdump like tool but less bloated "
+readme = "README.md"
+repository = "https://github.com/pwnwriter/saika"
+homepage = "https://github.com/pwnwriter/saika"
+license = "MIT"
+keywords = ["bug-bounty", "hexdump", "ctf", "reverse-engineering"]
+categories = ["accessibility", "command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+
+
+[profile.release]
+lto = true
+panic = "abort"
